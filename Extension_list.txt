@@ -1,0 +1,23 @@
+PS C:\Users\phung\OneDrive\Desktop\PHP For Dev Stanford\HocVien\PhungNV\Part5\laravel_coban> code --list-extensions
+aaron-bond.better-comments
+adpyke.codesnap
+amiralizadeh9480.laravel-extra-intellisense
+austenc.laravel-blade-spacer
+bmewburn.vscode-intelephense-client
+codingyu.laravel-goto-view
+CoenraadS.bracket-pair-colorizer-2
+eamodio.gitlens
+emmanuelbeziat.vscode-great-icons
+esbenp.prettier-vscode
+formulahendry.auto-rename-tag
+MehediDracula.php-namespace-resolver
+ms-vsliveshare.vsliveshare
+onecentlin.laravel-blade
+patbenatar.advanced-new-file
+PKief.material-icon-theme
+rangav.vscode-thunder-client
+ritwickdey.live-sass
+ritwickdey.LiveServer
+WallabyJs.quokka-vscode
+wesbos.theme-cobalt2
+Zignd.html-css-class-completion
